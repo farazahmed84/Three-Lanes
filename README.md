@@ -1,2 +1,2 @@
-# Three-Lanes
-A source code of my Phaser JS game "Three Lanes" 
+# Three Lanes
+Play online: https://farazthewebguy.itch.io/three-lanes
